@@ -1,0 +1,10 @@
+#+OPTIONS: toc:nil num:nil tasks:nil ^:nil
+#+TITLE: Listacious: A YouTube Playlist helper
+#+AUTHOR: Jeremy Tsang
+#+LATEX_HEADER: \usepackage[margin=1.0in]{geometry}
+* Description
+Listacious is an app that maintains a record of YouTube playlists' history. It
+tracks the title and description of videos in playlists in the event that said
+videos. This way in the event that videos are removed and seeing ~"[Deleted
+Video]"~, the user can look up the data with this app and determine which video
+was deleted.
